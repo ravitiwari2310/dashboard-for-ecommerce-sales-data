@@ -43,4 +43,4 @@
 
 ---
 
-*Interview tip: Mention only measures and visuals that are present in your actual Power BI report. Treat the dashboard as a decision-support tool; claim business impact only if it was measured.*
+
